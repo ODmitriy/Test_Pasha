@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en">
+    <body>
+      <trans-unit id="commonComponentMoreButtonText" datatype="html">
+        <source>Show <x id="INTERPOLATION" equiv-text="{{loadMoreCount}}"/> more</source><target state="final">Show <x id="INTERPOLATION" equiv-text="{{loadMoreCount}}"/> more</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/_shared/common/components/show-more-button.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit><trans-unit id="entityType" datatype="html">
+        <source>
+      <x id="ICU" equiv-text="{entityType, select, LECTURE {...} USER {...} MEMBER {...} NEWS {...} TASK {...} RESULT {...} PAYMENT {...} QUEST {...} VIDEO {...} GROUP {...} GROUP_POST {...} STORY {...} PAGE {...} QUESTION {...} QUIZ {...} DIALOGUES {...} GAMES {...} PUBLISHED_GAMES {...} FORUM_QUESTION {...}}"/>
+    </source><target state="final">
+      <x id="ICU" equiv-text="{entityType, select, LECTURE {...} USER {...} MEMBER {...} NEWS {...} TASK {...} RESULT {...} PAYMENT {...} QUEST {...} VIDEO {...} GROUP {...} GROUP_POST {...} STORY {...} PAGE {...} QUESTION {...} QUIZ {...} DIALOGUES {...} GAMES {...} PUBLISHED_GAMES {...} FORUM_QUESTION {...}}"/>
+    </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/_shared/common/components/entity-type.component.ts</context><context context-type="linenumber">6</context></context-group></trans-unit><trans-unit id="07697d9685f976f519a4fddf1d83f9b4ddeb1b0a" datatype="html">
+        <source>{VAR_SELECT, select, LECTURE {{VAR_PLURAL, plural, one {lecture} few {lectures} many {lectures} other {lectures} }} USER {{VAR_PLURAL_1, plural, one {user} few {users} many {users} other {users} }} MEMBER {{VAR_PLURAL_2, plural, one {member} few {members} many {members} other {members} }} NEWS {{VAR_PLURAL_3, plural, one {activity} few {activities} many {activities} other {activities} }} TASK {{VAR_PLURAL_4, plural, one {task} few {tasks} many {tasks} other {tasks} }} RESULT {{VAR_PLURAL_5, plural, one {result} few {results} many {results} other {results} }} PAYMENT {{VAR_PLURAL_6, plural, one {payment} few {payments} many {payments} other {payments} }} QUEST {{VAR_PLURAL_7, plural, one {quest} few {quests} many {quests} other {quests} }} VIDEO {{VAR_PLURAL_8, plural, one {video} few {videos} many {videos} other {videos} }} GROUP {{VAR_PLURAL_9, plural, one {group} few {groups} many {groups} other {groups} }} GROUP_POST {{VAR_PLURAL_10, plural, one {article} few {articles} many {articles} other {articles} }} STORY {{VAR_PLURAL_11, plural, one {story} few {stories} many {stories} other {stories} }} PAGE {{VAR_PLURAL_12, plural, one {page} few {pages} many {pages} other {pages} }} QUESTION {{VAR_PLURAL_13, plural, one {question} few {questions} many {questions} other {questions} }} QUIZ {{VAR_PLURAL_14, plural, one {quiz} few {quizzes} many {quizzes} other {quizzes} }} DIALOGUES {{VAR_PLURAL_15, plural, one {dialogue} few {dialogues} many {dialogues} other {dialogues} }} GAMES {{VAR_PLURAL_16, plural, one {game} few {games} many {games} other {games} }} PUBLISHED_GAMES {{VAR_PLURAL_17, plural, one {published game} few {published games} many {published games} other {published games} }} FORUM_QUESTION {{VAR_PLURAL_18, plural, one {post} few {posts} many {posts} other {posts} }} }</source><target state="final">{VAR_SELECT, select, LECTURE {{VAR_PLURAL, plural, one {lecture} few {lectures} many {lectures} other {lectures} }} USER {{VAR_PLURAL_1, plural, one {user} few {users} many {users} other {users} }} MEMBER {{VAR_PLURAL_2, plural, one {member} few {members} many {members} other {members} }} NEWS {{VAR_PLURAL_3, plural, one {activity} few {activities} many {activities} other {activities} }} TASK {{VAR_PLURAL_4, plural, one {task} few {tasks} many {tasks} other {tasks} }} RESULT {{VAR_PLURAL_5, plural, one {result} few {results} many {results} other {results} }} PAYMENT {{VAR_PLURAL_6, plural, one {payment} few {payments} many {payments} other {payments} }} QUEST {{VAR_PLURAL_7, plural, one {quest} few {quests} many {quests} other {quests} }} VIDEO {{VAR_PLURAL_8, plural, one {video} few {videos} many {videos} other {videos} }} GROUP {{VAR_PLURAL_9, plural, one {group} few {groups} many {groups} other {groups} }} GROUP_POST {{VAR_PLURAL_10, plural, one {article} few {articles} many {articles} other {articles} }} STORY {{VAR_PLURAL_11, plural, one {story} few {stories} many {stories} other {stories} }} PAGE {{VAR_PLURAL_12, plural, one {page} few {pages} many {pages} other {pages} }} QUESTION {{VAR_PLURAL_13, plural, one {question} few {questions} many {questions} other {questions} }} QUIZ {{VAR_PLURAL_14, plural, one {quiz} few {quizzes} many {quizzes} other {quizzes} }} DIALOGUES {{VAR_PLURAL_15, plural, one {dialogue} few {dialogues} many {dialogues} other {dialogues} }} GAMES {{VAR_PLURAL_16, plural, one {game} few {games} many {games} other {games} }} PUBLISHED_GAMES {{VAR_PLURAL_17, plural, one {published game} few {published games} many {published games} other {published games} }} FORUM_QUESTION {{VAR_PLURAL_18, plural, one {post} few {posts} many {posts} other {posts} }} }</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/_shared/common/components/entity-type.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit><trans-unit id="croppieUploadingToServer" datatype="html">
+        <source>Uploading to server...</source><target state="final">Uploading to server...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/_shared/common/components/croppie/croppie.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit><trans-unit id="searchPanelPlaceholderText" datatype="html">
+        <source>Search</source><target state="final">Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/_shared/common/components/search-panel.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit><trans-unit id="authModalSigningIn" datatype="html">
+        <source>
+                Signing in...
+              </source><target state="final">
+                Signing in...
+              </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/auth/components/auth-modal.component.ts</context><context context-type="linenumber">26</context></context-group></trans-unit><trans-unit id="authModalSigningUp" datatype="html">
+        <source>
+                Registering your account...
+              </source><target state="final">
+                Registering your account...
+              </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/auth/components/auth-modal.component.ts</context><context context-type="linenumber">29</context></context-group></trans-unit><trans-unit id="chatLoading" datatype="html">
+        <source>Loading chat...</source><target state="final">Loading chat...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/chat/chat-main.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit><trans-unit id="forumQuestionListLoading" datatype="html">
+        <source>Loading posts...</source><target state="final">Loading posts...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/forum/pages/forum-question-list/forum-question-list.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit><trans-unit id="lastCommentsListLoading" datatype="html">
+        <source>Loading recent comments...</source><target state="final">Loading recent comments...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/forum/components/last-comments-list.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit><trans-unit id="editorForumQuestionPanelLoading" datatype="html">
+        <source>Loading editor...</source><target state="final">Loading editor...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/forum/components/edit-forum-question-panel.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit><trans-unit id="publishedGamesListLoading" datatype="html">
+        <source>Loading published games...</source><target state="final">Loading published games...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/games/pages/published-games-list/published-games-list.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit><trans-unit id="projectsSettingsLoading" datatype="html">
+        <source>Loading projects...</source><target state="final">Loading projects...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/games/pages/projects-settings/projects-settings.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit><trans-unit id="groupListLoading" datatype="html">
+        <source>Loading groups...</source><target state="final">Loading groups...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/groups/pages/group-list/group-list.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit><trans-unit id="postListLoading" datatype="html">
+        <source>Loading posts...</source><target state="final">Loading posts...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/groups/pages/post-list/post-list.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit><trans-unit id="questionListLoading" datatype="html">
+        <source>Loading questions...</source><target state="final">Loading questions...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/help/pages/question-list/question-list.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit><trans-unit id="salePageReviewsLoading" datatype="html">
+        <source>Loading reviews...</source><target state="final">Loading reviews...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/stock/pages/sale/sale-page.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit><trans-unit id="meProfileAvatarUploadingToServer" datatype="html">
+        <source>Uploading image to server...</source><target state="final">Uploading image to server...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/me/pages/profile/me-profile-avatar.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit><trans-unit id="achievementsLoading" datatype="html">
+        <source>Loading achievements...</source><target state="final">Loading achievements...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/me/pages/achievements/achievements.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit><trans-unit id="newsNavigationTabAllActivity" datatype="html">
+        <source>All activity</source><target state="final">All activity</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/news/news.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newsNavigationTabMyActivity" datatype="html">
+        <source>My activity</source><target state="final">My activity</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/news/news.component.ts</context><context context-type="linenumber">8</context></context-group></trans-unit><trans-unit id="newsListPageNoActivityMessage" datatype="html">
+        <source>You don't have any activity yet</source><target state="final">You don't have any activity yet</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/news/components/news-list.component.ts</context><context context-type="linenumber">21</context></context-group></trans-unit>
+      
+      
+      <trans-unit id="newsListPageLinkViewSiteActivity" datatype="html">
+        <source>View activity across
+                    the entire site?</source><target state="final">View activity across
+                    the entire site?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/news/components/news-list.component.ts</context><context context-type="linenumber">22</context></context-group></trans-unit><trans-unit id="newsListPageLoadingActivityMessage" datatype="html">
+        <source>Loading activity...</source><target state="final">Loading activity...</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">app/main-site/news/components/news-list.component.ts</context><context context-type="linenumber">29</context></context-group></trans-unit><trans-unit id="searchResultsLoading" datatype="html">
+        <source>Searching...</source><target state="final">Searching...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/search/components/search-results.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/search/components/search-results-type.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit><trans-unit id="usersListLoading" datatype="html">
+        <source>Loading users...</source><target state="final">Loading users...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/users/components/users-list.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit><trans-unit id="usersSocialLoading" datatype="html">
+        <source>Loading social networks...</source><target state="final">Loading social networks...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-site/users/components/users-social.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      
+    </body>
+  </file>
+</xliff>
